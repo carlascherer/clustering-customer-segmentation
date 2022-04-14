@@ -1,0 +1,129 @@
+colunas,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+channelGrouping,475862,8,Organic Search,230323,,,,,,,
+date,475862.0,,,,20168176.581935517,6421.399523664709,20160801.0,20161107.0,20170404.0,20170925.0,20180430.0
+fullVisitorId,1397674.0,94876.0,7.419931313788867e+17,4392.0,,,,,,,
+socialEngagementType,475862,1,Not Socially Engaged,475862,,,,,,,
+visitId,1397674.0,,,,1493191207.176901,16547335.344630964,1470035832.0,1477398920.0,1492131394.5,1506990963.0,1525156929.0
+visitNumber,475862.0,,,,2.4509584711534016,6.1569637178248335,1.0,1.0,1.0,2.0,185.0
+visitStartTime,475862.0,,,,1492831216.8232682,16474157.530719142,1470035832.0,1478537904.0,1491315761.0,1506370186.0,1525156929.0
+salesRegion,416047,5,North America,299425,,,,,,,
+device_mobileDeviceMarketingName,475862,1,not available in demo dataset,475862,,,,,,,
+device_screenColors,475862,1,not available in demo dataset,475862,,,,,,,
+device_deviceCategory,475862,3,desktop,352766,,,,,,,
+device_flashVersion,475862,1,not available in demo dataset,475862,,,,,,,
+device_mobileDeviceBranding,475862,1,not available in demo dataset,475862,,,,,,,
+device_mobileDeviceModel,475862,1,not available in demo dataset,475862,,,,,,,
+device_screenResolution,475862,1,not available in demo dataset,475862,,,,,,,
+device_mobileDeviceInfo,475862,1,not available in demo dataset,475862,,,,,,,
+device_language,475862,1,not available in demo dataset,475862,,,,,,,
+device_browserSize,475862,1,not available in demo dataset,475862,,,,,,,
+device_browser,475862,27,Chrome,359069,,,,,,,
+device_operatingSystemVersion,475862,1,not available in demo dataset,475862,,,,,,,
+device_browserVersion,475862,1,not available in demo dataset,475862,,,,,,,
+device_operatingSystem,475862,17,Macintosh,158352,,,,,,,
+device_mobileInputSelector,475862,1,not available in demo dataset,475862,,,,,,,
+device_isMobile,475862,2,False,352770,,,,,,,
+geoNetwork_metro,475862,98,not available in demo dataset,243596,,,,,,,
+geoNetwork_city,475862,628,not available in demo dataset,243596,,,,,,,
+geoNetwork_country,475862,187,United States,282426,,,,,,,
+geoNetwork_cityId,475862,1,not available in demo dataset,475862,,,,,,,
+geoNetwork_subContinent,475862,22,Northern America,299235,,,,,,,
+geoNetwork_longitude,475862,1,not available in demo dataset,475862,,,,,,,
+geoNetwork_latitude,475862,1,not available in demo dataset,475862,,,,,,,
+geoNetwork_continent,475862,6,Americas,317891,,,,,,,
+geoNetwork_networkDomain,475862,5986,(not set),175420,,,,,,,
+geoNetwork_networkLocation,475862,1,not available in demo dataset,475862,,,,,,,
+geoNetwork_region,475862,373,not available in demo dataset,243596,,,,,,,
+totals_pageviews,475844.0,,,,16.53053101436605,28.60953963430929,1.0,3.0,8.0,19.0,365.0
+totals_newVisits,334039.0,,,,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+totals_totalTransactionRevenue,36387.0,,,,176066077.170418,279543626.41710544,5590000.0,37750000.0,76760000.0,159890000.0,4200500000.0
+totals_hits,475862.0,,,,22.01740000252174,40.58951244093069,1.0,3.0,10.0,25.0,500.0
+totals_bounces,64530.0,,,,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+totals_timeOnSite,411112.0,,,,641.0543817743097,944.8020309966242,1.0,101.0,292.0,807.0,13098.0
+totals_transactions,36388.0,,,,1.1072881169616358,0.5851081839016793,1.0,1.0,1.0,1.0,8.0
+totals_sessionQualityDim,172071.0,,,,17.61816343253657,27.43341195594457,1.0,1.0,2.0,22.0,98.0
+totals_visits,475862.0,,,,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+totals_transactionRevenue,36387.0,,,,162271460.96133235,274216562.71452314,1000000.0,32770000.0,66950000.0,145620000.0,4198500000.0
+trafficSource_adContent,7850,43,Google Merchandise Collection,3311,,,,,,,
+trafficSource_campaign,475862,25,(not set),455062,,,,,,,
+trafficSource_source,475862,116,(direct),218789,,,,,,,
+trafficSource_referralPath,131003,869,/,73353,,,,,,,
+trafficSource_isTrueDirect,171396,1,True,171396,,,,,,,
+trafficSource_keyword,183155,345,(not provided),168276,,,,,,,
+trafficSource_medium,475862,7,(none),218789,,,,,,,
+dataSource,559228,2,web,558595,,,,,,,
+hitNumber,1358384.0,,,,11.752999888102334,23.448986664011922,1.0,2.0,5.0,12.0,500.0
+hour,1148913.0,,,,12.081485717369373,6.077294948188081,0.0,8.0,12.0,17.0,23.0
+isEntrance,226902,1,True,226902,,,,,,,
+isExit,267415,1,True,267415,,,,,,,
+isInteraction,1148913,1,True,1148913,,,,,,,
+latencyTracking,2475,1965,"{'pageLoadSample': '1', 'pageLoadTime': '7494', 'pageDownloadTime': '327', 'redirectionTime': '1', 'speedMetricsSample': '1', 'serverResponseTime': '3203', 'domLatencyMetricsSample': '1', 'domInteractiveTime': '5762', 'domContentLoadedTime': '5942'}",15,,,,,,,
+minute,1148913.0,,,,29.312315205764058,17.367034214547786,0.0,14.0,29.0,44.0,59.0
+promotion,1148913,43,[],1103493,,,,,,,
+referer,219258,3542,https://www.google.com/,55983,,,,,,,
+time,1148913.0,,,,273177.698873631,530154.7384195047,0.0,12008.0,81178.0,284219.0,13097632.0
+type,1148913,2,PAGE,1092232,,,,,,,
+appInfo_screenDepth,1148913.0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+appInfo_landingScreenName,1148913,569,shop.googlemerchandisestore.com/home,400659,,,,,,,
+appInfo_exitScreenName,1148913,672,shop.googlemerchandisestore.com/home,97465,,,,,,,
+appInfo_screenName,1148913,937,shop.googlemerchandisestore.com/google+redesign/shop+by+brand/youtube,129142,,,,,,,
+page_searchKeyword,45,3,gopher,43,,,,,,,
+page_pagePathLevel1,1148913,38,/google+redesign/,958395,,,,,,,
+page_hostname,1148913,2,shop.googlemerchandisestore.com,1123140,,,,,,,
+page_pagePathLevel3,643750,296,/youtube,129144,,,,,,,
+page_pageTitle,1148843,757,YouTube | Shop by Brand | Google Merchandise Store,126616,,,,,,,
+page_searchCategory,46,1,(not set),46,,,,,,,
+page_pagePath,1148913,934,/google+redesign/shop+by+brand/youtube,129142,,,,,,,
+page_pagePathLevel2,963109,59,/apparel/,292750,,,,,,,
+page_pagePathLevel4,242881,555,/men++s+t+shirts,50028,,,,,,,
+contentGroup_contentGroup3,1148913,3,(not set),1036265,,,,,,,
+contentGroup_contentGroup1,1148913,4,(not set),1107786,,,,,,,
+contentGroup_previousContentGroup1,1148913,5,(not set),891342,,,,,,,
+contentGroup_previousContentGroup3,1148913,4,(not set),841506,,,,,,,
+contentGroup_contentGroup5,1148913,1,(not set),1148913,,,,,,,
+contentGroup_contentGroup2,1148913,10,Apparel,346899,,,,,,,
+contentGroup_contentGroupUniqueViews2,540436.0,,,,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+contentGroup_contentGroupUniqueViews1,32392.0,,,,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+contentGroup_contentGroupUniqueViews3,67969.0,,,,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+contentGroup_previousContentGroup4,1148913,2,(not set),922286,,,,,,,
+contentGroup_contentGroup4,1148913,1,(not set),1148913,,,,,,,
+contentGroup_previousContentGroup2,1148913,11,Apparel,276383,,,,,,,
+contentGroup_previousContentGroup5,1148913,2,(not set),922286,,,,,,,
+eCommerceAction_option,13296,3,Billing and Shipping,5199,,,,,,,
+eCommerceAction_action_type,1148913.0,,,,0.1997540283729055,0.7934785628936153,0.0,0.0,0.0,0.0,6.0
+eCommerceAction_step,1148913.0,,,,1.0095794894826675,0.12063023031722561,1.0,1.0,1.0,1.0,3.0
+eventInfo_eventAction,54206,6,Quickview Click,30922,,,,,,,
+eventInfo_eventLabel,32835,550,Email,1388,,,,,,,
+eventInfo_eventCategory,54206,2,Enhanced Ecommerce,52293,,,,,,,
+promotionActionInfo_promoIsClick,2356,1,True,2356,,,,,,,
+promotionActionInfo_promoIsView,43064,1,True,43064,,,,,,,
+social_hasSocialSourceReferral,1148913,2,No,1053717,,,,,,,
+social_socialInteractionNetworkAction,1148913,1, : ,1148913,,,,,,,
+social_socialNetwork,1148913,11,(not set),1053717,,,,,,,
+transaction_localTransactionTax,1416.0,,,,21034371.468926553,27155699.1453194,1420000.0,8550000.0,12510000.0,21630000.0,361060000.0
+transaction_transactionShipping,2216.0,,,,17755794.223826714,26773658.003537215,7000000.0,10000000.0,12500000.0,15500000.0,674340000.0
+transaction_transactionCoupon,72,6,", Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping, Store1, Store Shipping",30,,,,,,,
+transaction_currencyCode,947796,1,USD,947796,,,,,,,
+transaction_affiliation,4566,1,Google Merchandise Store,4566,,,,,,,
+transaction_transactionTax,1416.0,,,,21034371.468926553,27155699.1453194,1420000.0,8550000.0,12510000.0,21630000.0,361060000.0
+transaction_localTransactionRevenue,2241.0,,,,225529625.16733602,353260381.1305007,5590000.0,44480000.0,89430000.0,216730000.0,4200500000.0
+transaction_localTransactionShipping,2216.0,,,,17755794.223826714,26773658.003537215,7000000.0,10000000.0,12500000.0,15500000.0,674340000.0
+transaction_transactionId,4566,818,ORD201704032215,48,,,,,,,
+transaction_transactionRevenue,2241.0,,,,225529625.16733602,353260381.1305007,5590000.0,44480000.0,89430000.0,216730000.0,4200500000.0
+item_currencyCode,947796,1,USD,947796,,,,,,,
+item_transactionId,4566,818,ORD201704032215,48,,,,,,,
+isClick,38865,1,True,38865,,,,,,,
+isImpression,1085832,1,True,1085832,,,,,,,
+localProductPrice,1187001.0,,,,22838967.79278198,28319826.739051588,0.0,4990000.0,16990000.0,22990000.0,995000000.0
+localProductRevenue,2575.0,,,,46659192.081941746,134658134.33979824,1275714.0,10780000.0,19000000.0,39295000.0,4200500000.0
+productBrand,1187001,1,(not set),1187001,,,,,,,
+productCouponCode,14312,1,(not set),14312,,,,,,,
+productListName,1187001,4,Category,1099913,,,,,,,
+productListPosition,1187001.0,,,,7.370195138841501,6.593271704595366,0.0,3.0,6.0,10.0,34.0
+productPrice,1187001.0,,,,24810353.402398143,29033253.0526835,0.0,6990000.0,16990000.0,24950000.0,995000000.0
+productQuantity,18135.0,,,,9439.305596912049,887267.6341659206,1.0,1.0,1.0,2.0,84485164.0
+productRevenue,2575.0,,,,46659192.081941746,134658134.33979824,1275714.0,10780000.0,19000000.0,39295000.0,4200500000.0
+productSKU,1187001,1655,GGOEYFKQ020699,16875,,,,,,,
+productVariant,1187001,35,(not set),1166743,,,,,,,
+v2ProductCategory,1187001,88,Home/Shop by Brand/YouTube/,152035,,,,,,,
+v2ProductName,1187001,650,Google Men's 100% Cotton Short Sleeve Hero Tee White,16867,,,,,,,
